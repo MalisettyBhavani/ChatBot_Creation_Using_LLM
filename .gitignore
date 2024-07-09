@@ -1,2 +1,9 @@
 __pycache__/
 *.pyc
+.DS_Store
+Chatbot_Creation_Using_LLM/
+bin/
+etc/
+lib/
+pyvenv.cfg
+share/
