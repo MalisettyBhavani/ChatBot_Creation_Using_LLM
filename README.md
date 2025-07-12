@@ -147,7 +147,7 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 
 **Bhavani Malisetty**  
 [GitHub](https://github.com/MalisettyBhavani)  
-[LinkedIn](https://linkedin.com/in/malisettybhavani)
+[LinkedIn](https://www.linkedin.com/in/bhavani-malisetty/)
 
 Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM)
 
