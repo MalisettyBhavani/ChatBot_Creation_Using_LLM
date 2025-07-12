@@ -23,7 +23,7 @@
     <a href="https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM"><strong>Explore the repo »</strong></a>
     <br />
     <br />
-    <a href="#📊-usage">View Usage</a>
+    <a href="#usage">View Usage</a>
     ·
     <a href="https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/issues">Report Bug</a>
     ·
