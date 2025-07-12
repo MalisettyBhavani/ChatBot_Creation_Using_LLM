@@ -35,19 +35,19 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#🔍-about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#🚀-getting-started">Getting Started</a></li>
-    <li><a href="#📊-usage">Usage</a></li>
-    <li><a href="#📆-roadmap">Roadmap</a></li>
-    <li><a href="#👥-contributing">Contributing</a></li>
-    <li><a href="#📧-contact">Contact</a></li>
-    <li><a href="#📖-acknowledgments">Acknowledgments</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## 🔍 About The Project
+## About The Project
 
 This project is a lightweight, retrieval-based **Q&A chatbot** built using **LangChain**, **GooglePalm**, and **FAISS**. It loads FAQ-style documents from a CSV file and creates a semantic index (vector database) of the content using `HuggingFaceInstructEmbeddings`. When a user inputs a query, the chatbot retrieves the most relevant context and generates a context-aware answer using Google Palm LLM.
 
@@ -80,7 +80,7 @@ This project is a lightweight, retrieval-based **Q&A chatbot** built using **Lan
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Install the required packages:
@@ -107,7 +107,7 @@ streamlit run main.py
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE -->
-## 📊 Usage
+## Usage
 
 - Click **"Create Knowledgebase"** to initialize the vector store
 - Type your question in the input box (e.g., *"Do you offer internships?"*)
@@ -119,7 +119,7 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## 📆 Roadmap
+## Roadmap
 
 - [x] Load CSV-based knowledgebase
 - [x] Create semantic vector DB with FAISS
@@ -132,7 +132,7 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## 👥 Contributing
+## Contributing
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -143,7 +143,7 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## 📧 Contact
+## Contact
 
 **Bhavani Malisetty**  
 [GitHub](https://github.com/MalisettyBhavani)  
@@ -154,7 +154,7 @@ Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/C
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## 📖 Acknowledgments
+## Acknowledgments
 
 * [LangChain Documentation](https://docs.langchain.com/)
 * [Google Generative AI API](https://developers.generativeai.google/)
