@@ -157,6 +157,7 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 ## Contact
 
 **Bhavani Malisetty**  
+**Email: bmalisetty@unomaha.edu**  
 [GitHub](https://github.com/MalisettyBhavani)  
 [LinkedIn](https://www.linkedin.com/in/bhavani-malisetty/)
 
