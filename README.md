@@ -175,4 +175,4 @@ Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/C
 [license-shield]: https://img.shields.io/github/license/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
 [license-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/malisettybhavani
+[linkedin-url]: https://www.linkedin.com/in/bhavani-malisetty/
