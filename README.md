@@ -80,12 +80,13 @@ This chatbot is ideal for automating **internal knowledge access**, **customer s
 <!-- BUILT WITH -->
 ### Built With
 
-* [LangChain](https://python.langchain.com/)
-* [Google Palm](https://developers.generativeai.google/products/palm)
-* [Hugging Face Transformers](https://huggingface.co/)
-* [FAISS](https://github.com/facebookresearch/faiss)
-* [Streamlit](https://streamlit.io/)
-* [Python-dotenv](https://pypi.org/project/python-dotenv/)
+* [![LangChain][LangChain-badge]][LangChain-url]
+* [![Google Palm][Palm-badge]][Palm-url]
+* [![Hugging Face][HuggingFace-badge]][HuggingFace-url]
+* [![FAISS][FAISS-badge]][FAISS-url]
+* [![Streamlit][Streamlit-badge]][Streamlit-url]
+* [![python-dotenv][Dotenv-badge]][Dotenv-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +183,17 @@ Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/C
 [stars-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
 [issues-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/issues
-[license-shield]: https://img.shields.io/github/license/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
-[license-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/blob/main/LICENSE
+[LangChain-badge]: https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white
+[LangChain-url]: https://python.langchain.com/
+[Palm-badge]: https://img.shields.io/badge/Google%20Palm-4285F4?style=for-the-badge&logo=google&logoColor=white
+[Palm-url]: https://developers.generativeai.google/products/palm
+[HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black
+[HuggingFace-url]: https://huggingface.co/
+[FAISS-badge]: https://img.shields.io/badge/FAISS-005571?style=for-the-badge
+[FAISS-url]: https://github.com/facebookresearch/faiss
+[Streamlit-badge]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+[Streamlit-url]: https://streamlit.io/
+[Dotenv-badge]: https://img.shields.io/badge/python--dotenv-367cfe?style=for-the-badge
+[Dotenv-url]: https://pypi.org/project/python-dotenv/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bhavani-malisetty/
