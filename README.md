@@ -142,13 +142,6 @@ This setup is ideal for building **internal documentation bots**, **customer sup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## 📧 Contact
 
