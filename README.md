@@ -175,26 +175,16 @@ Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/C
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM.svg?style=for-the-badge
-[contributors-url]: https://github.com/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM.svg?style=for-the-badge
-[forks-url]: https://github.com/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM/network/members
-[stars-shield]: https://img.shields.io/github/stars/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM.svg?style=for-the-badge
-[stars-url]: https://github.com/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM.svg?style=for-the-badge
-[issues-url]: https://github.com/MalisettyBhavani/Advanced-Travel-Planner-App-Using-LLM/issues
+[contributors-shield]: https://img.shields.io/github/contributors/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
+[contributors-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
+[forks-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/network/members
+[stars-shield]: https://img.shields.io/github/stars/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
+[stars-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MalisettyBhavani/ChatBot_Creation_Using_LLM.svg?style=for-the-badge
+[issues-url]: https://github.com/MalisettyBhavani/ChatBot_Creation_Using_LLM/issues
 [LangChain-badge]: https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white
 [LangChain-url]: https://python.langchain.com/
 [Palm-badge]: https://img.shields.io/badge/Google%20Palm-4285F4?style=for-the-badge&logo=google&logoColor=white
-[Palm-url]: https://developers.generativeai.google/products/palm
-[HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black
-[HuggingFace-url]: https://huggingface.co/
-[FAISS-badge]: https://img.shields.io/badge/FAISS-005571?style=for-the-badge
-[FAISS-url]: https://github.com/facebookresearch/faiss
-[Streamlit-badge]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[Streamlit-url]: https://streamlit.io/
-[Dotenv-badge]: https://img.shields.io/badge/python--dotenv-367cfe?style=for-the-badge
-[Dotenv-url]: https://pypi.org/project/python-dotenv/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/bhavani-malisetty/
