@@ -188,3 +188,5 @@ Project Link: [ChatBot Creation Using LLM](https://github.com/MalisettyBhavani/C
 [LangChain-badge]: https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white
 [LangChain-url]: https://python.langchain.com/
 [Palm-badge]: https://img.shields.io/badge/Google%20Palm-4285F4?style=for-the-badge&logo=google&logoColor=white
+[GitHub](https://github.com/MalisettyBhavani)  
+[LinkedIn](https://www.linkedin.com/in/bhavani-malisetty/)
